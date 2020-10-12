@@ -1,0 +1,4 @@
+[core]
+    remote = gpu
+['remote "gpu"']
+    url = /disk2/dvc-data
