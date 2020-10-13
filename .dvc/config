@@ -2,3 +2,5 @@
     remote = gpu
 ['remote "gpu"']
     url = /disk2/dvc-data
+['remote "ssh"']
+    url = ssh://davi@build/home/data/dvc-data/mnist
